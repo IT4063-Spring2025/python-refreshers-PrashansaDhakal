@@ -96,29 +96,29 @@ PYDEVD_DISABLE_FILE_VALIDATION=1 JUPYTER_PLATFORM_DIRS=1 pytest --capture=sys
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- I learned new python function (full_like).
 
 **I struggled with:** (repeat as needed)
-- .
+- I struggled with a few python syntax
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- I need the instructor to help me with the setup.
 
 **How long did it take you to complete this assignment? and reflect on that**
-[ ] hours.
+- It took me 3 hours to complete this assignment.
 
 **If I were to do this assignment again, I would:** (repeat as needed)
-- .
+- If I were to do this assignment again, I would try to finish it faster.
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get 20 out of 20.
 
 --------------------
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- I used the python refresher notes in canvas in my work.
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- I received help from my instructor.
 
 ---
 ## Copyrights and License
